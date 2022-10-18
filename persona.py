@@ -30,4 +30,4 @@ class Persona:
         self._sexo = sexo
 
     def __str__(self):
-        return "Mi nombre es " + self._nombre + " tengo " + str(self._edad) + años de edad y mido " + self._altura +  metros"
+        return "Mi nombre es " + self._nombre + " tengo " + str(self._edad) + " años de edad y mido " + self._altura +  "metros"
